@@ -1,0 +1,31 @@
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.exe
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.deps.json
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.runtimeconfig.json
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.runtimeconfig.dev.json
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.pdb
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\refint\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.pdb
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.genruntimeconfig.cache
+C:\Users\LEGION\Desktop\Data Structures and Algorithms\obj\Debug\net5.0\ref\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.exe
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.deps.json
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.runtimeconfig.json
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.runtimeconfig.dev.json
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\bin\Debug\net5.0\Data Structures and Algorithms.pdb
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.sourcelink.json
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\refint\Data Structures and Algorithms.dll
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.pdb
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\Data Structures and Algorithms.genruntimeconfig.cache
+C:\Users\LEGION\Desktop\Data-Structures-and-Algorithms\obj\Debug\net5.0\ref\Data Structures and Algorithms.dll

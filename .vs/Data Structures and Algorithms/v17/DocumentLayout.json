@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\sorting\\quick sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:sorting\\quick sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\sorting\\insertion sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:sorting\\insertion sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\sorting\\selection sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:sorting\\selection sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\sorting\\bubble sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:sorting\\bubble sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|c:\\users\\legion\\desktop\\data-structures-and-algorithms\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B764F2-059B-4587-A310-B33C663D7E74}|Data Structures and Algorithms.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quick Sort.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Quick Sort.cs",
+              "RelativeDocumentMoniker": "Sorting\\Quick Sort.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Quick Sort.cs",
+              "RelativeToolTip": "Sorting\\Quick Sort.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:35:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insertion Sort.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Insertion Sort.cs",
+              "RelativeDocumentMoniker": "Sorting\\Insertion Sort.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Insertion Sort.cs",
+              "RelativeToolTip": "Sorting\\Insertion Sort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:25:07.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selection Sort.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Selection Sort.cs",
+              "RelativeDocumentMoniker": "Sorting\\Selection Sort.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Selection Sort.cs",
+              "RelativeToolTip": "Sorting\\Selection Sort.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:54:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-23T03:10:51.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:54:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bubble Sort.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Bubble Sort.cs",
+              "RelativeDocumentMoniker": "Sorting\\Bubble Sort.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Sorting\\Bubble Sort.cs",
+              "RelativeToolTip": "Sorting\\Bubble Sort.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:53:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Data-Structures-and-Algorithms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:52:47.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
